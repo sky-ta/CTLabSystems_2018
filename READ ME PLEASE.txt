@@ -16,10 +16,6 @@ This project is made happened thanks to the help of
 5. Adding icon to address bar: https://stackoverflow.com/questions/626371/how-can-i-add-a-picture-in-address-bar-of-the-browser-when-my-page-is-browsed
 6. General tags other: https://www.w3schools.com/tags/default.asp
 7. Organizing documents:  https://learn-the-web.algonquindesign.ca/topics/navigation/
-
-Color used:
-1. Red: 
-2. Yellow: 
-3. Green: #d9ff82
+8. Image rotation: https://stackoverflow.com/questions/20061774/rotate-an-image-in-image-source-in-html
 
   
